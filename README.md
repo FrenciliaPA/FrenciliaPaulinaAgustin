@@ -1,14 +1,3 @@
-# Halo semua! 
+Perkenalkan nama saya **Frencilia Paulina Agustin** lulusan **Sarjana Statistika** di [Universitas Sebelas Maret](https://uns.ac.id/id/) tahun 2025 dengan IPK 3,86/4. Memiliki ketertarikan mendalam pada **analisis data** dengan menggunakan Microsoft Excel, SQL, Tableau, Power BI, Google Looker, Minitab, SPSS, RStudio, dan Python, serta tekad kuat untuk memecahkan berbagai permasalahan dunia. Senantiasa mencari peluang untuk terus belajar dan berkembang. Berkomitmen untuk memanfaatkan pengetahuan yang dimiliki guna berkontribusi pada tujuan yang bermanfaat dan memberikan dampak positif.<br>
 
-Perkenalkan nama saya **Frencilia Paulina Agustin**.<br>
-
-Saya seorang **Mahasiswa S1 Statistika** di [Universitas Sebelas Maret](https://uns.ac.id/id/).<br>
-
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](http://bit.ly/LinkedInFrenciliaPaulinaAgustin) ku ya.
-
-    <p align="left">
-    <a href="https://github.com/penuliscode">
-      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=penuliscode&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=penuliscode&layout=compact&theme=algolia"/>
-    </a>
-    </p>
+Jika Anda tertarik untuk mengetahui lebih jauh tentang saya, silakan ikuti akun [Linkedin](http://bit.ly/LinkedInFrenciliaPaulinaAgustin).
